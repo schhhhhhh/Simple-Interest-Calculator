@@ -1,2 +1,1 @@
-# Simple-Interest-Calculator
-Simple Interest Calculator
+# coding-project-template
